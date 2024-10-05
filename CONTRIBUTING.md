@@ -16,7 +16,7 @@ If this is something you think you can fix, then [fork telegram-media-downloader
 A good branch name would be (where issue #52 is the ticket you're working on):
 
 ```sh
-	git checkout -b 52-fix-expired-file-reference
+	git checkout -b 52-fix-expired-file-reference1
 ```
 
 ### For new Contributors
